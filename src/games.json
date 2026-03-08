@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball down a steep slope and avoid obstacles.",
+    "url": "https://slopegame.io/",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "description": "The original Minecraft in your browser.",
+    "url": "https://classic.minecraft.net/",
+    "thumbnail": "https://picsum.photos/seed/minecraft/400/300"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The ultimate idle game.",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "description": "Life simulator game.",
+    "url": "https://bitlifeonline.io/",
+    "thumbnail": "https://picsum.photos/seed/life/400/300"
+  }
+]
